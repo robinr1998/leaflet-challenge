@@ -1,9 +1,9 @@
 # leaflet-challenge - Module 15
 By Robin Ryan <br/>
 
-Dataset chosen to display is All Earthquakes in the Past 7 Days
-Index.html is located in the folder Leaflet-Part-1
-The logic.js file is located in the folder Leaflet-Part-1/static/js/logic.js
+Dataset chosen to display is All Earthquakes in the Past 7 Days <br/>
+Index.html is located in the folder Leaflet-Part-1 <br/>
+The logic.js file is located in the folder Leaflet-Part-1/static/js/logic.js <br/>
 
 **Open file Index.html in a web browser to view the map of All Earthquakes in the Past 7 Days**
 
